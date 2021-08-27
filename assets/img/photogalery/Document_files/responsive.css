@@ -1,0 +1,20 @@
+/* Tab and mobile */
+@media (max-width: 1023px) {
+    .tab-mob-none {
+        display: none;
+    }
+}
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .tab-none {
+        display: none;
+    }
+}
+
+/* mobile */
+@media (max-width: 739px){
+    .mob-none {
+        display: none;
+    }
+}
